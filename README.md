@@ -1,6 +1,6 @@
 # EDFDNet: Enhanced Submanifold Convolutional Block and Dynamic Feature Diffusion for Fully Sparse 3D Object Detection
 
-This is a pytorch implementation of 《EDFDNet: Enhanced Submanifold Convolutional Block and Dynamic Feature Diffusion for Fully Sparse 3D Object Detection》. 
+This is a pytorch implementation of 《EDFDNet: Enhanced Submanifold Convolutional Block and Dynamic Feature Diffusion for Fully Sparse 3D Object Detection》(International Conference on 3D Vision 2025, CCF-C). 
 
 Detail information will be released after publication.
 
@@ -41,8 +41,10 @@ TABLE II: Results on the Waymo Validation Set. VoxelNext* represents the reprodu
 *Note: VoxelNext\* represents the reproduction result of the official code.
 
 ## Architecture
-![示例图片](./docs/EDFDNet.png)
+TBD
 
+## Visualization
+TBD
 
 ## Getting Started
 ### Installation
