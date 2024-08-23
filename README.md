@@ -1,6 +1,6 @@
 # EDFDNet: Enhanced Submanifold Convolutional Block and Dynamic Feature Diffusion for Fully Sparse 3D Object Detection
 
-This is a pytorch implementation of 《EDFDNet: Enhanced Submanifold Convolutional Block and Dynamic Feature Diffusion for Fully Sparse 3D Object Detection》(International Conference on 3D Vision 2025, CCF-C). 
+This is a pytorch implementation of 《EDFDNet: Enhanced Submanifold Convolutional Block and Dynamic Feature Diffusion for Fully Sparse 3D Object Detection》(International Conference on 3D Vision 2025, CCF-C, under review). 
 
 Detail information will be released after publication.
 
